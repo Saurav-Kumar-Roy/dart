@@ -1,3 +1,4 @@
+//data types and how to print
 void main(){
   var intNumber = 10;
   var doubleNumber = 10.1;
